@@ -1,6 +1,7 @@
 # DSA - Data Structures and Algorithms in Java
 
-Welcome to my **DSA repository**!  
+Welcome to my **DSA repository**! 
+
 This repository contains solutions to various **Data Structures and Algorithms** problems that I have solved using **Java**. It serves as a personal reference, a practice collection, and a resource for others preparing fro **coding interviews** and **competitive programming**.
 
 ---
